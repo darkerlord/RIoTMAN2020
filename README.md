@@ -2,6 +2,7 @@
 # RIoTMAN2020
 RIoTMAN: A Systematic Analysis of IoT Malware Behavior
 
+The light version of this project along with sample is available here: https://github.com/adava/CnCHunter 
 
 ## Requesting Data
 To request data please contact Ahmad Darki at adark001[at]ucr[dot]edu and include your answer to the following questions:
